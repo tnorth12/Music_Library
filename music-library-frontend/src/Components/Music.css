@@ -1,0 +1,63 @@
+
+.index-col {
+    text-decoration: none;
+    text-align: center;
+     padding: 10px;
+     margin-right: 4rem;
+}
+
+.release_date-col{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+     padding: 10px;
+     margin-right: 4rem;
+
+}
+
+.genre-col{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 10px;
+    margin-right: 4rem;
+}
+
+.album-col{
+     font-family: 'Times New Roman', Times, serif;
+     text-align: center;
+     padding: 10px;
+     margin-right: 4rem;
+}
+
+.artist-col{
+     font-family: 'Times New Roman', Times, serif;
+     margin: 1rem;
+     text-align: center;
+     padding: 10px;
+     margin-right: 4rem;
+
+}
+
+.title-col{
+     font-family: 'Times New Roman', Times, serif;
+     margin: 1rem;
+     text-align: center;
+     padding: 10px;
+     margin-right: 4rem;
+}
+
+.music{
+     background-color: whitesmoke;
+     margin-left:10rem;
+     box-shadow: 4px 4px 8px grey;
+     border-style: groove;
+     padding: 20px;
+     text-decoration: none;
+         
+}
+
+
+tbody th,
+td {
+  text-align: left;
+  padding: 10px;
+}

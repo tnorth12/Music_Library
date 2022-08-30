@@ -1,0 +1,16 @@
+.nav-bar{
+    display:flex;
+    justify-content: space-between;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    box-shadow: 2px 2px 6px;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    color: white;
+}
+.heading {
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    text-align: center;
+    margin-left: 30rem;
+}

@@ -1,0 +1,28 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background:crimson
+
+}
+
+button.getAllSongs {
+    margin-bottom: 1rem;
+    margin-left: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;    
+    letter-spacing: 1.3px;
+    font-weight: 700;
+    color: #313133;
+    background: #4FD1C5;
+    margin-right: 15px;
+    background: whitesmoke;
+    border: none;
+    border-style: groove;
+   
+    transition: all 0.3s ease-in-out 0s;
+    cursor: pointer;
+    outline: none;
+    position: center;
+    padding: 5px;
+ 
+}

@@ -1,0 +1,63 @@
+.add_button{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;    
+    letter-spacing: 1px;    
+    color: #313133;
+    background: #d5e3e2;
+    font-weight: 650;
+    margin-left: 10rem;
+    background: whitesmoke;
+    
+   
+    transition: all 0.3s ease-in-out 0s;
+    cursor: pointer;
+    outline: none;
+    position: center;
+    padding: 5px;
+    
+}
+
+.form-grid{
+    display:inline-block;    
+    background-color: transparent;
+    width: 20%;
+    margin-top: 5rem;
+    background-color:white;
+    margin:1rem;
+    margin-left: 10rem;
+    box-shadow: 4px 4px 8px grey;
+    border-style: groove;
+    padding: 20px;
+    text-decoration: none;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* // import Post from "./Post";
+
+
+// const DisplayMusic = ({entries}) => {
+//     return (
+//       <ul>
+//         {entries.map((el, i) => <li ><Post entry = {el}/></li>)}
+//       </ul>   
+//       );
+// }
+ 
+// export default DisplayMusic; */
