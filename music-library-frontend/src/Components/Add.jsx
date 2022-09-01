@@ -3,7 +3,7 @@ import '../Components/Add.css';
 
 const Entry = (props) => {
 
-    const [id, setID] = useState('');
+    const [id, setID] = useState('');                  //Added while trying to get delete function to work
     const [title, setTitle] = useState('');
     const [artist, setArtist] = useState('');
     const [album, setAlbum] = useState('');
